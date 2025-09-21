@@ -1,0 +1,7 @@
+John Doe
+Software Engineer
+Skills: Python, SQL, AWS, Docker, Kubernetes, Machine Learning
+Experience: 5 years building backend systems using Python and SQL.
+Education: B.S. in Computer Science
+
+Summary: Experienced backend engineer with strong experience in Python, SQL and cloud deployments.
