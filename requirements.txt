@@ -1,0 +1,36 @@
+# Core dependencies
+spacy>=3.5
+nltk>=3.8
+sentence-transformers>=2.2
+# Optional / infra
+chromadb>=0.3  # if using Chroma
+# faiss-cpu  # optional if using FAISS
+# pinecone-client  # optional for Pinecone
+# Optional DB / infra (uncomment if you need them and your platform supports them)
+# chromadb>=0.3
+# faiss-cpu  # optional, often problematic on Windows
+# pinecone-client  # optional for Pinecone
+
+# Core runtime
+sqlalchemy
+psycopg2-binary  # PostgreSQL driver; on Windows you may prefer to use an alternative or use a wheel
+alembic  # optional for migrations
+streamlit
+google-generativeai
+PyPDF2
+python-docx
+pillow
+scikit-learn
+rank-bm25
+sentence-transformers
+spacy
+nltk
+rapidfuzz
+python-multipart
+plotly
+# Lottie animation support
+streamlit-lottie
+requests
+fuzzywuzzy
+python-Levenshtein
+python-dotenv
